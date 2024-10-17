@@ -1,0 +1,35 @@
+p{
+    color: red;
+}
+input{
+    width: 500px;
+
+}
+
+button{
+  width: 200px;
+  height: 50px;
+
+ 
+  border-radius: 20px;
+  /* background-repeat: no-repeat; */
+background-size: contain;
+  background-image: url("img.jpg");
+}
+nav{
+    display: flex;
+    background-color: black;
+
+   
+}
+nav li{
+    margin-left: 300px;
+    padding: 10px;
+    color: white;
+    list-style: none;
+
+}
+div{
+    background-color: red;
+    color: white;
+}
